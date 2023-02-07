@@ -1,1 +1,5 @@
 # 102-Class04
+
+This webpage is a Gaming Mod website. where all modders can come together and find what they need . The website name is "ONGOD" which is displayed in the top right corner. In the top left we have "login, how to , troubleshooting, add mods", which gives the users easy access to the frequncely used.
+Under that is a search bar for users to find exactly the game mod they are looking for. Moving farther down the page the next box is that has a alphbetical link to game mods. There are three links to the "newest, free, and 'pay to play'" mods. This  helps users navagate the mods based on those sections. 
+Directly under that section will be a slide show of the most downloaded mods in the perfect light. To the right of that is another break down of game mods section. " fighting, horror, racing, sports, and sims game mods" these are all different types of games in case the user is forgetful and doesnt remeber the game title. Lastly the box left is just details for the users on what are mods and how they affect gameplay. 
