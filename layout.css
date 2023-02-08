@@ -1,0 +1,36 @@
+
+img{ float: right;
+
+}
+body{ 
+
+    background-color: pink;
+    
+}
+h1{
+    text-shadow: 0 0 3px #ff0000;
+    background-color: rgb(40, 50, 88);
+    margin: top 80px;
+}
+
+#list1 {
+color: green;
+text-align: right;
+}
+#list2 {
+color:rgb(40, 50, 88);
+text-align: right;
+}
+#list3 {
+color: green;
+text-align: right;
+}
+#list4 {
+color: rgb(40, 50, 88);
+text-align: right;
+}
+
+#list5 {
+color: green;
+text-align: right;
+}
