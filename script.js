@@ -1,11 +1,4 @@
 
-let 'name' = ''
-let "hacker" = "robot"
-function whosthere(){
-    if("hacker") { 
-        greeting = "not today satan";
-        else('name'){
-            greeting = "welcome fellow Modder";
-        }
-    }
-}
+
+var name = prompt(" Hey modder whats your name "),
+    document.write("Hey"+ 'name'+ enjoy the mod community");
