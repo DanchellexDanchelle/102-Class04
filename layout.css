@@ -79,10 +79,7 @@ h1{
     font-size:99px
 }
 
-.form-container .btn:hover, .open-button:hover {
-  opacity: 1;
-  color: orangered
-}
+
 
 P {
     Border-style: inset;
