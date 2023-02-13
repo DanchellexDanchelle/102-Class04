@@ -17,10 +17,27 @@
   <div class="topnav">
 <ul>
   <li><a href="#default.asp" class="active">Login</a></li>
+  <div class="form-popup" id="Login">
+    <form action="/action_page.php" class="form-container">
+  
+      <label for="Username"><b>Username</b></label>
+      <input type="text" Placeholder="Modder123" name="username"
+      required>
+  
+      <label for="Password"><b>Password</b></label>
+      <input type="password" placeholder="Enter Password" name="psw"
+      required>
+  
+      <button type="submit" class="btn">Login</button>
+      <button type="button" Class="btn cancel"
+    onclick="closeform">Close</button>
+    </form>
+  </div>
   <li><a href="#troubleshooting.asp">Troubleshooting</a></li>
   <li><a href="contact us.asp">Contact us</a></li>
 </ul>
 </div>
+
 
 <div class="column2">
   <p> This is a real paragraph about the Mod4Life webpage, enjoy. Blah blah Blah. Here we Enjoy Mods and enjoy they with other modders please feel free to take a look at what we have and enhance your gameplay.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.</p>
@@ -64,9 +81,9 @@ Ising this a placefiller unitl i find something to say.Lorem ipsum dolor sit ame
 <script>
   
   if(confirm("Do you want to add mods?")) {
-    alert("Cool,Login please!");
+    alert("Okay Cool,Login please!");
   } else {
-    alert("Okay thats fine just check out the Mods");
+    alert("Okay thats fine just check out the Mods We have availble in the Gallery and Don't forget to Sign in!");
   }
 
 </script>
