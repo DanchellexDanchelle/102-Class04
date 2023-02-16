@@ -79,18 +79,20 @@ h1{
     font-size:99px
 }
 
-
+nav {
+  background-color: green;
+}
 
 P {
-    Border-style: inset;
+    Border-style: solid;
     font-family: fantasy;
     Color: orangered;
-    text-align: center;
+    text-align: left;
     font-size: medium;
 }
 
 P2 {
-    border-style: dotted;
+    border-style: solid;
     color: orangered;
     text-align: right;
 }
@@ -100,9 +102,14 @@ Body {
 }
 
 img {
-    float: right;
+    float: center;
 }
 
+
 img {
-    float: left;
+    float: center;
+}
+
+.checked {
+  color:red;
 }
